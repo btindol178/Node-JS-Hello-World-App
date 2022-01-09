@@ -1,0 +1,5 @@
+TO RUN INDEX.JS WITH NODE DO THE FOLLOWING
+0) make sure node is installed just type node in cmd if no error control c
+1) make a directory and put your index.js file in it
+2) then type in terminal in vs code below node ((filename)) in this case node index.js
+3) or you can type node to enter Node REPL
